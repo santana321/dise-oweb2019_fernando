@@ -1,2 +1,2 @@
-# dise-oweb2019_fernando
-mi primer repositorio del curso diseño de pagina web en INFOTEP
+# dise-oweb2019_christopher
+Mi primer repositorio del curso  Diseño Web en INFOTEP
